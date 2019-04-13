@@ -17,10 +17,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-	</properties>
-	
-	<properties>
-    		<failOnMissingWebXml>false</failOnMissingWebXml>   
+		<failOnMissingWebXml>false</failOnMissingWebXml>  
 	</properties>
 
 	<dependencies>
